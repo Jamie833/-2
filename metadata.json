@@ -1,0 +1,7 @@
+{
+  "name": "Life4Cuts AI - 人生四格",
+  "description": "使用 AI 智能配文和配色，生成唯美的韩式人生四格照片。",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
